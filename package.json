@@ -1,0 +1,19 @@
+{
+  "name": "html-practice",
+  "version": "1.0.0",
+  "description": "Practicing html & css",
+  "main": "",
+  "scripts": {
+    "start:hotel": "live-server hotel-web --port=8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qruplay/html-practice.git"
+  },
+  "author": "Roman Kovalchuk",
+  "license": "ISC",
+  "homepage": "https://github.com/qruplay/html-practice#readme",
+  "dependencies": {
+    "live-server": "1.2.1"
+  }
+}
